@@ -8,7 +8,7 @@ from pages.tarea3.login_page import LoginPage
 from pages.tarea3.inventory_page import InventoryPage
 from pages.tarea3.checkout_page import CheckoutPage
 
-from helpers.tarea3.webdriver_helper import WebDriverHelper
+#from helpers.tarea3.webdriver_helper import WebDriverHelper
 
 # Requerimiento: Trazabilidad obligatoria con logging
 logger = logging.getLogger(__name__)
