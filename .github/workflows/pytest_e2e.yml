@@ -2,7 +2,7 @@ name: E2E Pytest Selenium Allure - Integrador
 
 on:
   push:
-    branches: ["alumno/sbarriosr"]
+    branches: ["main"]
 
 jobs:
   e2e-tests:
